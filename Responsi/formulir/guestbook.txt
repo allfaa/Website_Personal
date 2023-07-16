@@ -1,0 +1,4 @@
+Alfah|Yogyakarta|Wanita|083528326322|LILY GARDEN KOST|Rp 2.000.000 / bulan|2023-07-16
+Nabila|Yogyakarta|Wanita|08537263232|SAKURA KOST|Rp 1.800.000 / bulan|2023-07-31
+Kurnia|Yogyakarta|Wanita|0862328382|GRIYA MUTIARA KOST|Rp 2.000.000 / bulan|2023-07-26
+Putri|Sukamara|Wanita|08638632362|DAHLIA KOST|Rp 1.700.000 / bulan|2023-07-27
